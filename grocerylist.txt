@@ -4,6 +4,4 @@ Eggs
 Bread
 Butter
 Carrots
-Grapes
-Apples
-Potatoes 
+
